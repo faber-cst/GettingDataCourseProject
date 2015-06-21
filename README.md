@@ -76,7 +76,7 @@ Code for Step 2 is as follows
 ### Step 3: Uses descriptive activity names in the data set
 
 
-Activities the were monitored in that originated the measures of each row were 
+Activities the were monitored and originated the measures of each row were 
 in a separate file, also split in "train" and "test" datasets. Activities were
 number coded and each row corresponded to the measurement row in the same position.
 
